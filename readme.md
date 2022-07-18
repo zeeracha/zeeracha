@@ -1,10 +1,10 @@
 ![cover1](https://user-images.githubusercontent.com/102946057/179602312-8b294c1c-71c0-4f40-9a93-8a0f70974bb2.gif)
 
-<h2 align="center">Hey there👋🏻, &nbsp; I'm Zeera!<h2>
+<h2 align="center">Hey There👋🏻, &nbsp; I'm Zeera!<h2>
 
 <p>Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.</p>
 
-<h2 align="center">Talking about Personal Stuff<h2>
+<h2 align="center">Talking About Personal Stuff<h2>
 
 
 - I'm currrenly a student from Devcamp Thailand

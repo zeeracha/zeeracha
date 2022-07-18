@@ -1,6 +1,6 @@
 ![cover1](https://user-images.githubusercontent.com/102946057/179602312-8b294c1c-71c0-4f40-9a93-8a0f70974bb2.gif)
 
-<h2 align="center">Hey there👋🏻, I'm Zeera!<h2>
+<h2 align="center">Hey there👋🏻, &nbsp; I'm Zeera!<h2>
 
 <p>Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.</p>
 
@@ -15,8 +15,9 @@
 
 
 
-<h2 align="center">There are my skills<h2>
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"  title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;

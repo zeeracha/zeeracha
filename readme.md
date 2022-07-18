@@ -10,7 +10,7 @@ Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end 
 - I'm looking for fantastic job and beatiful team
 - Able to effectively self-manage during independent projects
 - Capable to written and oral communication skill
-- willing to learn new skills😉
+- Willing to learn new skills😉
 
 
 <h2 align="center">There are my skills<h2>

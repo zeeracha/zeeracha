@@ -2,15 +2,17 @@
 
 <h2 align="center">Hey there👋🏻, I'm Zeera!<h2>
 
-Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.
+<p>Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.</p>
 
 <h2 align="center">Talking about Personal Stuff<h2>
 
+<li>
 - I'm currrenly a student from Devcamp Thailand
 - I'm looking for fantastic job and beatiful team
 - Able to effectively self-manage during independent projects
 - Capable to written and oral communication skill
 - Willing to learn new skills😉
+  </li>
 
 
 <h2 align="center">There are my skills<h2>
@@ -25,4 +27,3 @@ Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
 </div>
-

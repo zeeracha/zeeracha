@@ -1,4 +1,4 @@
-![Uploading cover1.gif…]()
+
 **Hey👋🏻, I'm Zeera!**
 
 Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Thailand

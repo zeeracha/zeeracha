@@ -6,13 +6,13 @@
 
 <h2 align="center">Talking about Personal Stuff<h2>
 
-<li>
+
 - I'm currrenly a student from Devcamp Thailand
 - I'm looking for fantastic job and beatiful team
 - Able to effectively self-manage during independent projects
 - Capable to written and oral communication skill
 - Willing to learn new skills😉
-  </li>
+
 
 
 <h2 align="center">There are my skills<h2>

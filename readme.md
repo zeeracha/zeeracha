@@ -4,7 +4,6 @@
 
 Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.
 
---- 
 
 <h2>Talking about Personal Stuff<h2>
 

@@ -2,7 +2,7 @@
 
 <h2 align="center">
 Hey There👋🏻, &nbsp; I'm Zeera!
-<h2>
+</h2>
 
 <p>Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.</p>
 

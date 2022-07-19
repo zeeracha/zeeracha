@@ -4,8 +4,9 @@
 
 <p>Hi, I'am Ratchadaporn Charoenphol. You guys can call me Zeera. I am a Front-end Developer🧸 from Bangkok, Thailand.</p>
 
-<h2 align="center">Talking About Personal Stuff<h2>
-
+<div align="center"> 
+## Talking About Personal Stuff 
+</div>
 
 - I'm currrenly a student from Devcamp Thailand
 - I'm graduated from Assumption University, Thailand. But I'm interested in programming✨

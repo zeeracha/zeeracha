@@ -10,7 +10,6 @@ Hey There👋🏻, &nbsp; I'm Zeera!
 Talking About Personal Stuff 
 </h2>
 
-- I'm currrenly a student from Devcamp Thailand
 - I'm graduated from Assumption University, Thailand. But I'm interested in programming✨
 - I'm looking for fantastic job and beatiful team
 - Able to effectively self-manage during independent projects
